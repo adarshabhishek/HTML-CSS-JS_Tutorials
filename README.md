@@ -16,3 +16,7 @@ A sidebar navigation menu with icons, hover effects, and social media links.
 ### 3. Todo App  
 A simple To-do application to add the tasks along with deadline. Also delete functionality on successful completion.  
 - [SideBar Menu](https://adarshabhishek.github.io/HTML-CSS-JS_Tutorials/Todo%20App/) 
+
+### 4. Stone Paper Scissor Game  
+A simple game of stone, paper, scissor between the user and computer along with the scores between the two.  
+- [SideBar Menu](https://adarshabhishek.github.io/HTML-CSS-JS_Tutorials/Rock%20Paper%20Scissor/) 
